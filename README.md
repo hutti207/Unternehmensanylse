@@ -1,20 +1,20 @@
 # Unternehmensanaylse
 Ein Projekt um Unternehmen Anhand ihres Aktienkurses zu vergleichen
 
-## Features
+#### Features
 -  Aktienkurs Vergleich
 -  bsp
 -  bsp
 -  bsp
 
-## Technologies 
+#### Technologies 
 - Python
 - JupiterNotebook
 
-## Running the Project
+#### Running the Project
 1. Repo clonen
 2.  bps
 3. bsp
 
-## Preview
+#### Preview
 bsp. png
