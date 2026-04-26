@@ -2,10 +2,10 @@
 Ein Projekt um Unternehmen Anhand ihres Aktienkurses zu vergleichen
 
 ## Features
--  Aktienkurs Vergleich
--  bsp
--  bsp
--  bsp
+- Direkter Aktienvergleich
+- Rendite Vergleich
+- Gleitende Durchschnitte
+- Krisenmanagment Analyse
 
 ## Technologies 
 - Python
