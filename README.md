@@ -6,6 +6,7 @@ Ein Projekt um Unternehmen Anhand ihres Aktienkurses zu vergleichen
 - Rendite Vergleich
 - Gleitende Durchschnitte
 - Krisenmanagment Analyse
+- 1000€ Investition Entwicklung
 
 ## Technologies 
 - Python
@@ -13,7 +14,7 @@ Ein Projekt um Unternehmen Anhand ihres Aktienkurses zu vergleichen
 
 ## Running the Project
 1. Repo clonen
-2.  bps
+2. bps
 3. bsp
 
 ## Preview
