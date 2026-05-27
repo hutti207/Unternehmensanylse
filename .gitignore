@@ -1,0 +1,17 @@
+# Alles ignorieren...
+*
+
+# ...außer diesen Dateien
+!.gitignore
+!*.ipynb
+!README.md
+!requirements.txt
+
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py
+*.pyc

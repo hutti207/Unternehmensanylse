@@ -6,11 +6,11 @@ Ein Projekt um Unternehmen Anhand ihres Aktienkurses zu vergleichen
 - Rendite Vergleich
 - Gleitende Durchschnitte
 - Krisenmanagment Analyse
-- 1000€ Investition Entwicklung
+- 1000€ Investition Entwicklung Nokia
 
 ## Technologies 
-- Python
 - JupiterNotebook
+- Python
 
 ## Running the Project
 1. Repo clonen
