@@ -3,7 +3,7 @@
 
 # ...außer diesen Dateien
 !.gitignore
-!*.ipynb
+!DSCB230_SoSe26_Hausarbeit_Foxtrot.ipynb
 !README.md
 !requirements.txt
 # macOS
