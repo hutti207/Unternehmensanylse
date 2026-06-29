@@ -6,6 +6,9 @@
 !DSCB230_SoSe26_Hausarbeit_Foxtrot.ipynb
 !README.md
 !requirements.txt
+# Vorschau-Bilder fürs README
+!images/
+!images/*.png
 # macOS
 .DS_Store
 
