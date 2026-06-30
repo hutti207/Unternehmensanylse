@@ -1,7 +1,6 @@
 # Unternehmensanalyse anhand des Aktienkurses
 
-Data-Science-Projekt (DSCB230, SoSe 2026, Gruppe Foxtrot) zum Vergleich von
-Unternehmen auf Basis ihres Aktienkurses. Untersucht werden **Apple (AAPL)**,
+Data-Science Projekt zum Vergleich von Unternehmen auf Basis ihres Aktienkurses. Untersucht werden **Apple (AAPL)**,
 **Microsoft (MSFT)** und **Samsung (SMSN.IL)** im Zeitraum ab 2000, ergänzt um ein
 kurzfristiges Fallbeispiel zu **Intel (INTC)**. Alle Kurse werden in US-Dollar (USD)
 betrachtet. Die Daten werden bei jeder Ausführung live über die Yahoo-Finance-API geladen.
@@ -24,7 +23,7 @@ betrachtet. Die Daten werden bei jeder Ausführung live über die Yahoo-Finance-
 ## Technologien
 - Python
 - Jupyter Notebook
-- [yfinance](https://pypi.org/project/yfinance/) (Datenquelle: Yahoo Finance)
+- [yfinance](https://ranaroussi.github.io/yfinance/) (Datenquelle: Yahoo Finance)
 - pandas
 - Matplotlib
 
@@ -34,7 +33,7 @@ betrachtet. Die Daten werden bei jeder Ausführung live über die Yahoo-Finance-
    git clone <repo-url>
    cd DSCB230_SoSe26_Hausarbeit_Foxtrot
    ```
-2. (Empfohlen) virtuelle Umgebung anlegen und aktivieren:
+2. virtuelle Umgebung anlegen und aktivieren:
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate
@@ -49,9 +48,6 @@ betrachtet. Die Daten werden bei jeder Ausführung live über die Yahoo-Finance-
 
 ## Vorschau
 
-> **Hinweis:** Beispielausführung — da die Kursdaten live über Yahoo Finance geladen werden,
-> ändern sich die Werte bei jedem Lauf.
-
 **Normierter Kursvergleich (Start = 100) mit markierten Krisenphasen**
 
 ![Normierter Kursvergleich seit 2000](images/normierter-vergleich.png)
@@ -63,6 +59,3 @@ betrachtet. Die Daten werden bei jeder Ausführung live über die Yahoo-Finance-
 **Verhalten in den einzelnen Krisen (je Krisenfenster normiert)**
 
 ![Krisenanalyse je Krise](images/krisenanalyse.png)
-
-Alle weiteren Visualisierungen (Kursverlauf, Rendite, Volatilität, gleitende Durchschnitte,
-Ausreißer-Boxplot, Intel-Fallbeispiel) befinden sich als ausgeführte Zellen im Notebook.
